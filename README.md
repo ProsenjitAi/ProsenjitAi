@@ -1,4 +1,4 @@
-# Hi, I'm Prosenjit Mandal 👋
+# Hi, I'm Prosenjit 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prosenjit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prosenjit-mandal-41665a354/)
 [![Email](https://img.shields.io/badge/Email-prosenjitmy93%40gmail.com-red?style=flat-square&logo=gmail)](mailto:prosenjitmy93@gmail.com)
