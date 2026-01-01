@@ -1,7 +1,7 @@
 # Hi, I'm Prosenjit Mandal 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prosenjit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prosenjit-mandal-41665a354/)
-[![Email](https://img.shields.io/badge/Email-prosenjit%40example.com-red?style=flat-square&logo=gmail)](mailto:prosenjit@example.com)
+[![Email](https://img.shields.io/badge/Email-prosenjit%40example.com-red?style=flat-square&logo=gmail)](mailto:prosenjitmy93@gmail.com)
 
 ---
 
@@ -53,4 +53,4 @@ Created and maintained Docker images along with CI/CD pipelines for automation.
 
 ## 📫 Contact Me
 - **LinkedIn:** [linkedin.com/in/prosenjit-mandal-41665a354](https://www.linkedin.com/in/prosenjit-mandal-41665a354/)  
-- **Email:** prosenjit@example.com
+- **Email:** prosenjitmy93@gmail.com
